@@ -6,4 +6,6 @@ The site also uses subtle animations using jQuery. Another version will make use
 
 #SCREENSHOT 
 
-![webgif](https://user-images.githubusercontent.com/66526618/113500273-3bde5380-953a-11eb-930d-286b625da41a.gif)
+
+![webphoto](https://user-images.githubusercontent.com/66526618/113500296-72b46980-953a-11eb-8d6b-f2f254679bbb.png)
+
