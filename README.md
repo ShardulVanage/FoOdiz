@@ -8,4 +8,6 @@ The site also uses subtle animations using jQuery. Another version will make use
 
 
 ![webphoto](https://user-images.githubusercontent.com/66526618/113500296-72b46980-953a-11eb-8d6b-f2f254679bbb.png)
+![webgif](https://user-images.githubusercontent.com/66526618/113500319-94155580-953a-11eb-97d9-9164761cc4cf.gif width=50% height=50%)
+
 
