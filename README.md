@@ -6,4 +6,4 @@ The site also uses subtle animations using jQuery. Another version will make use
 
 #SCREENSHOT 
 
-!(ss&video/webvideo.webm)
+![webgif](https://user-images.githubusercontent.com/66526618/113500273-3bde5380-953a-11eb-930d-286b625da41a.gif)
